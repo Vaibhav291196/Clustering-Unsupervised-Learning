@@ -447,6 +447,27 @@ Candidate-Segmentation/
 └── README.md
 
 ---
+
+# 🚀 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/yourusername/Candidate-Segmentation.git
+```
+
+Install dependencies:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
+```
+
+Launch notebook:
+
+```bash
+jupyter notebook
+```
+
 ---
 
 # 📋 Key Methods & Algorithms Used
