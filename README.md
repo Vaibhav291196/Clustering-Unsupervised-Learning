@@ -429,6 +429,8 @@ Recommendations:
 
 # 📁 Project Structure
 
+```text
+
 Candidate-Segmentation/
 │
 ├── Candidate_Clustering.ipynb
@@ -446,27 +448,9 @@ Candidate-Segmentation/
 ├── requirements.txt
 └── README.md
 
+```
+
 ---
-
-# 🚀 Installation
-
-Clone repository:
-
-```bash
-git clone https://github.com/yourusername/Candidate-Segmentation.git
-```
-
-Install dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-```
-
-Launch notebook:
-
-```bash
-jupyter notebook
-```
 
 ---
 
