@@ -434,18 +434,8 @@ Recommendations:
 Candidate-Segmentation/
 │
 ├── Candidate_Clustering.ipynb
-├── Candidate_Clustering.pdf
 ├── dataset/
 │ └── scaler_clustering.csv
-│
-├── images/
-│ ├── eda.png
-│ ├── elbow_curve.png
-│ ├── silhouette.png
-│ ├── clusters.png
-│ └── dendrogram.png
-│
-├── requirements.txt
 └── README.md
 
 ```
